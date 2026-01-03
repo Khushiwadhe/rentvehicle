@@ -9,7 +9,7 @@ The Vehicle Rental System is a Java-based application demonstrating core Object-
 
 1. **Manage Vehicles:**
     - Add, update, and remove vehicles.
-    - Manage different types of vehicles (cars, bikes, trucks).
+    - Manage different types of vehicles (cars, bikes, trucks)..
 2. **Booking System:**
     - Rent vehicles based on availability.
     - Return rented vehicles.
