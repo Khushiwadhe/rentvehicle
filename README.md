@@ -88,5 +88,4 @@ Vehicle_Rental_System/
     - Calculate and display the total rental cost.
 
 4. **View Available Vehicles:**
-    - Display all available vehicles.
-
+    - Display all available vehicles..
